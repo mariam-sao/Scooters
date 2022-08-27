@@ -1,15 +1,13 @@
-# Laravel 8 - Booking Application
+# Laravel 8 - Booking Scooters Application
 
 ## Screenshots
-
-![preview img](/preview.png)
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/abdulaziz-m5u/laravel-booking-app.git project-name
+  git clone https://github.com/mariam-sao/Scooters.git project-name
 ```
 
 Go to the project directory
