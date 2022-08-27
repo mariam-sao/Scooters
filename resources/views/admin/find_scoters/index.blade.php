@@ -52,7 +52,6 @@
                                 <th>No</th>
                                 <th>Scoter Number</th>
                                 <th>Price</th>
-                                <th>Floor</th>
                                 <th>Description</th>
                                 <th>Category</th>
                                 <th>Action</th>
@@ -67,7 +66,6 @@
                                 <td>{{ $loop->iteration }}</td>
                                 <td>{{ $scoter->scoter_number }}</td>
                                 <td>{{ $scoter->price }}</td>
-                                <td>{{ $scoter->floor }}</td>
                                 <td>{{ $scoter->description }}</td>
                                 <td>{{ $scoter->category->name }}</td>
                                 <td>
