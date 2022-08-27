@@ -1,7 +1,5 @@
 # Laravel 8 - Booking Scooters Application
 
-## Screenshots
-
 ## Run Locally
 
 Clone the project
